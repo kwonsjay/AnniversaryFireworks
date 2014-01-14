@@ -3,14 +3,30 @@ html {
 }
 
 body {
+  height: 100%;
+  width: 100%;
   background: #080525;
   text-align: center;
   color: white;
 }
 
 h1 {
-  padding-top: 30%;
+  padding-top: 10%;
+  padding-bottom: 5%;
   font-weight: 100;
+}
+
+h2 {
+  font-weight: 100;
+  color: #8e8e8e;
+}
+
+p {
+  font-weight: 100;
+  color: #c2c2c2;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: left;
 }
 
 .firework {
