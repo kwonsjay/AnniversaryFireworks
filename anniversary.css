@@ -1,0 +1,26 @@
+html {
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+body {
+  background: #080525;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  padding-top: 30%;
+  font-weight: 100;
+}
+
+.firework {
+  border-radius: 50%;
+}
+
+.streak {
+  position: absolute;
+  bottom: 0;
+  width: 3px;
+  height: 0px;
+  background: white;
+}
